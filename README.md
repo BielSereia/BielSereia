@@ -6,7 +6,7 @@
 
 ⚡ Tenho experiência em diferentes frameworks como Nest.js, React, Next.js, etc.
 
-📞 Além de programar, também adoro sorvete e muitas vezes posso ser encontrado saboreando meu sabor favorito 😋 
+😋 Além de programar, também adoro sorvete e muitas vezes posso ser encontrado saboreando meu sabor favorito  
 
 💬 Sinta-se à vontade para conferir meus projetos e entrar em contato comigo se tiver alguma dúvida ou apenas quiser conversar sobre programação ou sorvete!
 
