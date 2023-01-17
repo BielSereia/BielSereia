@@ -11,5 +11,5 @@
 💬 Sinta-se à vontade para conferir meus projetos e entrar em contato comigo se tiver alguma dúvida ou apenas quiser conversar sobre programação ou sorvete!
 
 ## Conecte-se comigo
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername) <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20"/> 
--  🐦 [Twitter](https://twitter.com/yourusername) <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20"/>
+- 🔗 [LinkedIn](https://linkedin.com/in/gabriel-sereia-469809192) <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20"/> 
+-  🐦 [Twitter](https://twitter.com/BielSereia) <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20"/>
