@@ -1,16 +1,15 @@
-### Hi there 👋
+## 👋 Olá! 
+🔭 Meu nome é Gabriel e sou um estudante de 17 anos apaixonado por programação e tecnologia.
 
-<!--
-**BielSereia/BielSereia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Estou constantemente aprendendo novas habilidades e expandindo meu conhecimento em diferentes linguagens de programação e frameworks.
+- Meu foco atual é o desenvolvimento web, com experiência em linguagens como JavaScript, TypeScript e HTML/CSS.
 
-Here are some ideas to get you started:
+⚡ Tenho experiência em diferentes frameworks como Nest.js, React, Next.js, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📞 Além de programar, também adoro sorvete e muitas vezes posso ser encontrado saboreando meu sabor favorito 😋 
+
+💬 Sinta-se à vontade para conferir meus projetos e entrar em contato comigo se tiver alguma dúvida ou apenas quiser conversar sobre programação ou sorvete!
+
+## Conecte-se comigo
+- 🔗 [LinkedIn](https://linkedin.com/in/yourusername) <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="20"/> 
+-  🐦 [Twitter](https://twitter.com/yourusername) <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="20"/>
