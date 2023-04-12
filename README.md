@@ -12,4 +12,4 @@
 
 ## Conecte-se comigo
 - 🔗 [LinkedIn](https://linkedin.com/in/gabriel-sereia-469809192)
-- 🐦 [Twitter](https://twitter.com/BielSereia)
+
