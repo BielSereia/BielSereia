@@ -1,5 +1,5 @@
 ## 👋 Olá! 
-🔭 Meu nome é Gabriel e sou um estudante de 17 anos apaixonado por programação e tecnologia.
+🔭 Meu nome é Gabriel e sou um estudante do curso de Engenharia de Computação
 
 🌱 Estou constantemente aprendendo novas habilidades e expandindo meu conhecimento em diferentes linguagens de programação e frameworks.
 - Meu foco atual é o desenvolvimento web, com experiência em linguagens como JavaScript, TypeScript e HTML/CSS.
